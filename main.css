@@ -1,3 +1,7 @@
 body {
   background-color: #fc0;
 }
+
+h1 {
+  font-style: italic;
+}
